@@ -35,6 +35,8 @@
     }
 
     .weekdays {
+        font_style: time new roman; 
+        font-size:10;
         margin: 0%;
         padding: 1% 0%;
         border: 1px solid;
